@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agony\\source\\repos\\Kattis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DF03D9-DDF6-447D-88A0-CBD3346B9DDE}|Kattis.csproj|c:\\users\\agony\\source\\repos\\kattis\\fileextensiontask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DF03D9-DDF6-447D-88A0-CBD3346B9DDE}|Kattis.csproj|solutionrelative:fileextensiontask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DF03D9-DDF6-447D-88A0-CBD3346B9DDE}|Kattis.csproj|c:\\users\\agony\\source\\repos\\kattis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DF03D9-DDF6-447D-88A0-CBD3346B9DDE}|Kattis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DF03D9-DDF6-447D-88A0-CBD3346B9DDE}|Kattis.csproj|c:\\users\\agony\\source\\repos\\kattis\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DF03D9-DDF6-447D-88A0-CBD3346B9DDE}|Kattis.csproj|solutionrelative:fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileExtensionTask.cs",
+              "DocumentMoniker": "C:\\Users\\Agony\\source\\repos\\Kattis\\FileExtensionTask.cs",
+              "RelativeDocumentMoniker": "FileExtensionTask.cs",
+              "ToolTip": "C:\\Users\\Agony\\source\\repos\\Kattis\\FileExtensionTask.cs",
+              "RelativeToolTip": "FileExtensionTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:47:51.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzz.cs",
+              "DocumentMoniker": "C:\\Users\\Agony\\source\\repos\\Kattis\\FizzBuzz.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.cs",
+              "ToolTip": "C:\\Users\\Agony\\source\\repos\\Kattis\\FizzBuzz.cs",
+              "RelativeToolTip": "FizzBuzz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:25:30.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agony\\source\\repos\\Kattis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Agony\\source\\repos\\Kattis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:58:57.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

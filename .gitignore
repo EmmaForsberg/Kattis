@@ -1,0 +1,9 @@
+# Ignorera alla .log-filer
+*.log
+
+# Ignorera kompilatorgenererade filer, som bin och obj
+bin/
+obj/
+
+# Ignorera .env-filen (om du använder miljövariabler)
+.env
